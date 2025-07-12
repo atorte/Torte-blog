@@ -1,0 +1,244 @@
+{
+  "nav": {
+    "name": "Atorte",
+    "menu": [
+      {
+        "text": "Home",
+        "link": "#home"
+      },
+      {
+        "text": "About",
+        "link": "#about"
+      },
+      {
+        "text": "Skills",
+        "link": "#skills"
+      },
+      {
+        "text": "Experience",
+        "link": "#experience"
+      },
+      {
+        "text": "Projects",
+        "link": "#projects"
+      },
+      {
+        "text": "Contact",
+        "link": "#contact"
+      }
+    ]
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Atorte",
+    "title": "Atorte Blog",
+    "description": "我为互联网打造卓越且无障碍的数字体验",
+    "image": "/images/avatar.png"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "我是Atorte，一名全栈开发开发工程师，拥有三年的工作经验。我精通React、Vue、Angular等前端框架，熟悉TypeScript、JavaScript、CSS、HTML等前端技术。我还熟悉Node.js、Express、MongoDB等后端技术。我在团队合作方面有很好的表现，能够快速融入团队，为团队贡献自己的力量。",
+    "button": "Download CV",
+    "image": "/images/avatar.png"
+  },
+  "skills": {
+    "title": "My Skills",
+    "categories": [
+      {
+        "title": "Frontend",
+        "skills": [
+          {
+            "name": "HTML",
+            "image": "/images/html.png"
+          },
+          {
+            "name": "CSS",
+            "image": "/images/Css.png"
+          },
+          {
+            "name": "JavaScript",
+            "image": "/images/js.png"
+          },
+          {
+            "name": "React",
+            "image": "/images/react.png"
+          },
+          {
+            "name": "Bootstrap",
+            "image": "/images/bootstrap.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skills": [
+          {
+            "name": "Node.js",
+            "image": "/images/nodejs.png"
+          },
+          {
+            "name": "Express",
+            "image": "/images/express-js.png"
+          },
+          {
+            "name": "MongoDB",
+            "image": "/images/mongo.png"
+          },
+          {
+            "name": "MySQL",
+            "image": "/images/mysql.png"
+          },
+          {
+            "name": "PostgreSQL",
+            "image": "/images/post.png"
+          }
+        ]
+      },
+      {
+        "title": "Data Science",
+        "skills": [
+          {
+            "name": "Python",
+            "image": "/images/python.png"
+          },
+          {
+            "name": "TensorFlow",
+            "image": "/images/tensor.png"
+          },
+          {
+            "name": "PyTorch",
+            "image": "/images/deep.png"
+          },
+          {
+            "name": "Scikit-learn",
+            "image": "/images/scikit.png"
+          },
+          {
+            "name": "Pandas",
+            "image": "/images/pandas.png"
+          },
+          {
+            "name": "NumPy",
+            "image": "/images/numpy.png"
+          },
+          {
+            "name": "Matplotlib",
+            "image": "/images/matplot.png"
+          },
+          {
+            "name": "Seaborn",
+            "image": "/images/seaborn.png"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "skills": [
+          {
+            "name": "Git",
+            "image": "/images/git.png"
+          },
+          {
+            "name": "VS Code",
+            "image": "/images/vscode.jpg"
+          },
+          {
+            "name": "Jupyter",
+            "image": "/images/jupyter.png"
+          },
+          {
+            "name": "Figma",
+            "image": "/images/figma.png"
+          },
+          {
+            "name": "Canva",
+            "image": "/images/canva.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "timeline": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Previous Company",
+        "period": "Duration",
+        "description": "我负责公司的全栈开发项目，负责前端和后端的开发，使用React、Vue、Angular等前端框架，使用Node.js、Express、MongoDB等后端技术。我负责项目的需求分析、设计、开发、测试、部署等工作。"
+      },
+      {
+        "title": "Previous Job Title",
+        "company": "Previous Company",
+        "period": "Duration",
+        "description": "Describe your previous role, responsibilities, and achievements. Focus on relevant experience and skills."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "TorteAI",
+        "description": "TorteAI是基于python开发的AI，使用deepseek同款路线",
+        "technologies": ["List", "Your", "Technologies"],
+        "github": "https://github.com/atorte/torteAI.git",
+        "site": "https://github.com/atorte/torteAI.git",
+        "image": "/images/project-2-cover.jpg"
+      },
+      {
+        "title": "StressTest",
+        "description": "StressTest是基于Java开发的压力测试工具",
+        "technologies": ["List", "Your", "Technologies"],
+        "github": "https://github.com/atorte/StressTest.git",
+        "site": "https://github.com/atorte/StressTest.git",
+        "image": "/images/project-3-cover.png"
+      },
+      {
+        "title": "自适应互联网协议 AIP",
+        "description": "AIP是一种自适应互联网通信协议，主要解决IPv4和IPv6的互联问题，最高支持$2^{512}$个IP地址。",
+        "technologies": ["List", "Your", "Technologies"],
+        "github": "https://github.com/atorte/AIP.git",
+        "site": "https://github.com/atorte/AIP.git",
+        "image": "/images/project-4-cover.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我",
+    "description": "欢迎技术交流或项目合作，GitHub/邮箱见下方",
+    "emailjs": {
+      "service_id": "service_ukn55rf",
+      "template_id": "template_ffkzn52",
+      "public_key": "60plIp7Ey-JEMKmjP",
+      "to_email": "jink4541@outlook.com"
+    },
+    "info": {
+      "email": "jink4541@outlook.com",
+      "location": "巴黎·法国"
+    },
+    "social": [
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/atorte"
+      },
+      {
+        "name": "X",
+        "icon": "x",
+        "link": "https://x.com/Atorte117867"
+      },
+      {
+        "name": "Bilibili",
+        "icon": "bilibili",
+        "link": "https://space.bilibili.com/1992770457"
+      }
+    ],
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+} 
