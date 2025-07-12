@@ -1,14 +1,6 @@
-# Minimalist Portfolio
+# Torte-Blog
 
 一个使用 Next.js 构建的简洁、极简的个人作品集网站模板。
-
-## 快速部署
-
-点击下方按钮一键部署到腾讯云边缘函数：
-
-[![部署到腾讯云](https://img.shields.io/badge/部署到-腾讯云-blue)](https://console.tencentcloud.com/edgeone/pages/new?template=https://github.com/tomcomtang/minimalist-portfolio&output-directory=./out&build-command=npm%20run%20build&install-command=npm%20install)
-
-## 特性
 
 - 响应式设计
 - 可配置内容
@@ -47,7 +39,7 @@ npm run build
 
 ## 在线演示
 
-[点击此处查看在线演示](https://minimalist-portfolio.edgeone.app/)
+[点击此处查看在线演示](https://www.atorte.org/)
 
 ## 配置文件指南
 
